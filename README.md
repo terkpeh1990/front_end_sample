@@ -6,12 +6,12 @@
 
 > A frontend system for Velma PCMS
 
-### 🏠 [Homepage](https://github.com/Waccs-Global/velma_frontend/blob/main/README.md)
+### 🏠 [Homepage](https://github.com/terkpeh1990/front_end_sample/blob/main/README.md)
 
 ## Clone
 
 ```sh
-git clone https://github.com/Waccs-Global/velma_frontend.git
+git clone https://github.com/terkpeh1990/front_end_sample.git
 ```
 ## Install Dependencies
 
@@ -24,7 +24,7 @@ yarn install
 * [Vuetify](https://pinia.vuejs.org/)
 
 ## ENVIRONMENT VARIABLES
-* [ENV SAMPLE](https://github.com/Waccs-Global/velma_frontend/blob/main/.env.sample)
+* [ENV SAMPLE](https://github.com/terkpeh1990/front_end_sample/blob/main/.env.sample)
 ## Usage
 Run development server
 
@@ -38,11 +38,7 @@ yarn dev
 yarn lint
 ```
 
-## Author
 
-👤 **Isaac Anane Amankwaah**
-
-* Github: [@waccs-global](https://github.com/brasmith9/)
 
 ## 🤝 Contributing
 
