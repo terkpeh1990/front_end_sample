@@ -1,0 +1,49 @@
+/* stylelint-disable liberty/use-logical-spec */
+.input-wrap {
+  width: 120px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 20px;
+  background: #efeff2;
+
+  .input-field {
+    width: 100%;
+    padding: 0 8px;
+    border-radius: 20px;
+    color: #5c5c60;
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+.select-options-wrap {
+  display: flex;
+  align-items: center;
+  padding: 12px 8px;
+  border-bottom: 1px solid #f0f0f2;
+  gap: 2rem;
+}
+
+.left-input-area {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.remove-option {
+  position: absolute;
+  cursor: pointer;
+}
+
+.empty-area {
+  // border: 1px dashed #23C0B7;
+  display: grid;
+  place-content: center;
+}
+
+.constants {
+  position: sticky;
+  top: 0;
+}

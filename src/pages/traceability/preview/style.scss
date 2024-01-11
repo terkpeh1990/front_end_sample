@@ -1,0 +1,20 @@
+/* stylelint-disable liberty/use-logical-spec */
+/* stylelint-disable rule-empty-line-before */
+.wrap {
+  max-width: 80%;
+
+  @media screen and (min-width: 922px) {
+    max-width: 55%;
+  }
+}
+
+.small {
+  font-size: 14px;
+}
+a {
+  cursor: pointer;
+}
+.green {
+  color: #28c76f;
+  text-decoration: underline;
+}
